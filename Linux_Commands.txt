@@ -1,0 +1,18 @@
+Important Linux Commands for daily usage:
+
+1. cd
+2. chmod
+3. chown
+4. mkdir
+5. rmdir
+6. pwd
+7. mv
+8. cp
+9. rm
+10. touch
+11. ls
+12. df
+13. du
+14. free
+15. top
+16. ps
